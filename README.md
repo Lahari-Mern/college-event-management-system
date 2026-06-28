@@ -58,17 +58,6 @@ college-event-management-system
 3. Start the backend server
 4. Start the React application
 
-## 📸 Screenshots
-
-* Login Page
-* Register Page
-* Dashboard
-* Add Event
-* View Events
-* Search Events
-* Edit Event
-* MongoDB Database
-
 ## 📚 Learning Outcomes
 
 * MERN Stack Application Development
